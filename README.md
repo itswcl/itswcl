@@ -9,6 +9,4 @@
 
 ### Language
 
-Go Python JavaScript TypeScript Swift SQL
-
 ### Tool
