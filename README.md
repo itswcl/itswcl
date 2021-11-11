@@ -1,16 +1,14 @@
 ### Hi fellows 👋
 
-<!--
-**itswcl/itswcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on learning
+- 🌱 I’m currently learning full stack engineer
+- 👯 I’m looking to collaborate on project
+- 🤔 I’m looking for help with project
+- 📫 How to reach me: wei.lee@solewcl.com
+- ⚡ Fun fact: distruibutiion of sports wear
 
-Here are some ideas to get you started:
+### Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Go Python JavaScript TypeScript Swift SQL
+
+### Tool
