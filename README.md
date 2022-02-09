@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer!!
 
-🔭 I’m currently ready for full stack opportunity in the technology world.
-👯 I’m looking to collaborate on project
-🤔 I’m looking for help with project
-📫 How to reach me: wei.lee@solewcl.com
-⚡ Fun fact: distribution of sports wear
+🔭 I’m currently ready for full stack opportunity in the technology world<br/>
+👯 I’m looking to collaborate on project<br/>
+🤔 I’m looking for help with project<br/>
+📫 How to reach me: wei.lee@solewcl.com<br/>
+⚡ Fun fact: distribution of sports wear<br/>
 
 ### Languages and Tools:
 
@@ -23,11 +23,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itswcl&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/weicheng-lee/
