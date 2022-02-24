@@ -5,7 +5,7 @@
 🔭 I’m currently ready for full stack opportunity in the technology world<br/>
 👯 I’m looking to collaborate on project<br/>
 🤔 I’m looking for help with project<br/>
-📫 How to reach me: wei.lee@solewcl.com<br/>
+📫 How to reach me: waynelee1117@gmail.com<br/>
 ⚡ Fun fact: distribution of sports wear<br/>
 
 ### Languages and Tools:
